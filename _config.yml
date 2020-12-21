@@ -1,8 +1,8 @@
-highlighter: pygments
-markdown: redcarpet
+highlighter: rouge
+markdown: kramdown
 
 title:            Felix Fu
-aboutme:          A person.
+aboutme:          My name is Assil Ksiksi. I write low-level software at Cisco.
 url:              http://blackswanblood.github.io/
 
 author:
