@@ -2,12 +2,12 @@ highlighter: rouge
 markdown: kramdown
 
 title:            Felix Fu
-aboutme:          My name is Assil Ksiksi. I write low-level software at Cisco.
+aboutme:          My name is Yuxiang Fu.
 url:              http://blackswanblood.github.io/
 
 author:
   name:           Felix Fu
-  twitter:        
+  email:          yuxiang.f@alumni.ubc.ca        
   github:         https://github.com/blackswanblood
 
 paginate:         10
