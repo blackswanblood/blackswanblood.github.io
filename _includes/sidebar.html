@@ -7,6 +7,7 @@
   <div class="container">
     <div class="sidebar-about">
       <p class="lead">{{ site.aboutme }}</p>
+      <p class="motion"><div id="app"></div></p>
     </div>
 
     <nav class="sidebar-nav">
@@ -29,3 +30,24 @@
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
+
+<script type="text/javascript">
+  var app = document.getElementById('app');
+  
+  var typewriter = new Typewriter(app, {
+      loop: true
+  });
+  
+  typewriter.typeString('I am a Coder')
+      .pauseFor(2500)
+      .deleteChars(5)
+      .typeString('male')
+      .pauseFor(2500)
+      .deleteChars(4)
+      .typeString('student')
+      .pauseFor(2500)
+      .deleteChars(7)
+      .typeString('listener')
+      .pauseFor(2500)
+      .start();
+  </script>

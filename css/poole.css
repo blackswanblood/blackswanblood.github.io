@@ -263,6 +263,11 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
+.motion {
+  font-size: 1rem;
+  font-family: 'Source Code Pro', monospace;
+}
+
 
 /*
  * Messages
