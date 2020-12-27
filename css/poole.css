@@ -266,6 +266,7 @@ tbody tr:nth-child(odd) th {
 .motion {
   font-size: 1rem;
   font-family: 'Source Code Pro', monospace;
+  color: #e5e5e5;
 }
 
 
