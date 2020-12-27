@@ -12,6 +12,11 @@
 
 .sidebar h4 {
   color: #ffffff;
+  font-family: "Great Vibes", cursive; 
+  font-weight: normal; 
+  margin-bottom: 0px; 
+  margin-top: 40px; 
+  text-align: center; 
 }
 
 .intro h2 {
