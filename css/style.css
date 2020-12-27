@@ -10,12 +10,10 @@
     margin: 0 auto;
 }
 
-.sidebar h4 {
+.sidebar h3 {
   color: #ffffff;
   font-family: "Great Vibes", cursive; 
-  font-weight: normal; 
-  margin-bottom: 0px; 
-  margin-top: 40px; 
+  font-weight: normal;
   text-align: center; 
 }
 
