@@ -83,12 +83,7 @@ html {
   font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
 }
-/* Sidebar customized */
-.sidebar-about {
-  font-size: 1rem;
-  font-family: 'Source Code Pro', monospace;
-  color: #e5e5e5;
-}
+
 
 /* Sidebar nav */
 .sidebar-nav {

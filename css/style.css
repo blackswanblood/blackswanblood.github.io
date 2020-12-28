@@ -16,6 +16,12 @@
   text-align: center; 
 }
 
+.sidebar p {
+  font-size: 1rem;
+  font-family: 'Source Code Pro', monospace;
+  color: #e5e5e5;
+}
+
 .intro h2 {
   color: #ffffff;
 }
