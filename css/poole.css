@@ -259,15 +259,11 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 300;
 }
 
-.motion {
-  font-size: 1rem;
-  font-family: 'Source Code Pro', monospace;
-  color: #e5e5e5;
-}
+
 
 
 /*
