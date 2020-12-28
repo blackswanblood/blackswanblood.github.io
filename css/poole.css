@@ -261,7 +261,7 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: 1rem;
   font-family: 'Source Code Pro', monospace;
-  color: #fff;
+  color:#fff;
   font-weight: 300;
 }
 
